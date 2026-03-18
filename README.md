@@ -1,5 +1,7 @@
 # Voxi Releases
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 Official release repository for **Voxi**, a **free local voice input app** for **macOS** and **Windows**.
 
 Voxi is built for users who want **fast speech to text**, **local speech recognition**, and **privacy-first voice input**. It runs locally on your computer, delivers **real-time transcription with low latency**, and keeps your voice data on your device.
@@ -52,7 +54,7 @@ Release assets may include:
 - **Apple Silicon macOS builds**
 - **Windows x64 installers**
 
-## Voxi Features
+## Key Features
 
 Voxi focuses on speed, privacy, and simplicity:
 
@@ -62,7 +64,20 @@ Voxi focuses on speed, privacy, and simplicity:
 - **No forced cloud dependency:** ideal for privacy-conscious users
 - **Simple desktop experience:** open, speak, and type faster
 
+## Keywords Covered Naturally
 
+This repository is relevant to searches such as:
+
+- Voxi
+- Voxi download
+- Voxi releases
+- local voice input
+- speech to text app
+- voice typing app
+- offline speech recognition
+- macOS speech to text
+- Windows voice input
+- privacy-first dictation app
 ## Links
 
 - **Website:** https://www.newvoxi.com/
