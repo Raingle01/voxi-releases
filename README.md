@@ -1,21 +1,21 @@
-# Voxi Releases
+# voxlilt Releases
 
 [English](./README.md) | [简体中文](./README.zh-CN.md)
 
-Official release repository for **Voxi**, a **free local voice input app** for **macOS** and **Windows**.
+Official release repository for **voxlilt**, a **free local voice input app** for **macOS** and **Windows**.
 
-Voxi is built for users who want **fast speech to text**, **local speech recognition**, and **privacy-first voice input**. It runs locally on your computer, delivers **real-time transcription with low latency**, and keeps your voice data on your device.
+voxlilt is built for users who want **fast speech to text**, **local speech recognition**, and **privacy-first voice input**. It runs locally on your computer, delivers **real-time transcription with low latency**, and keeps your voice data on your device.
 
-## Download Voxi
+## Download voxlilt
 
 Get the latest official desktop builds here:
 
-- **Latest Release:** https://github.com/Raingle01/voxi-releases/releases/latest
+- **Latest Release:** https://github.com/Raingle01/voxlilt-releases/releases/latest
 - **Official Website:** https://www.newvoxi.com/
 
-## What Is Voxi?
+## What Is voxlilt?
 
-Voxi is a **desktop voice typing tool** that turns your speech into text in real time.
+voxlilt is a **desktop voice typing tool** that turns your speech into text in real time.
 
 Key capabilities include:
 
@@ -27,16 +27,16 @@ Key capabilities include:
 - **Support for macOS and Windows**
 - **Free to use, no sign-up required**
 
-If you are looking for a **speech to text app for macOS**, a **voice typing app for Windows**, or a **local alternative to cloud-based dictation tools**, Voxi is designed for that use case.
+If you are looking for a **speech to text app for macOS**, a **voice typing app for Windows**, or a **local alternative to cloud-based dictation tools**, voxlilt is designed for that use case.
 
 ## Why This Repository Exists
 
-This repository is the **official binary release repository** for Voxi.
+This repository is the **official binary release repository** for voxlilt.
 
 Here you can:
 
-- Download the latest **Voxi macOS installer**
-- Download the latest **Voxi Windows installer**
+- Download the latest **voxlilt macOS installer**
+- Download the latest **voxlilt Windows installer**
 - Access historical release builds
 - Check release tags and packaged assets
 
@@ -44,7 +44,7 @@ Here you can:
 
 ## Supported Platforms
 
-Voxi currently supports:
+voxlilt currently supports:
 
 - **macOS 12+**
 - **Windows 10+**
@@ -56,7 +56,7 @@ Release assets may include:
 
 ## Key Features
 
-Voxi focuses on speed, privacy, and simplicity:
+voxlilt focuses on speed, privacy, and simplicity:
 
 - **Local processing:** your audio does not need to leave your computer
 - **Low-latency transcription:** designed for fast voice input workflows
@@ -68,9 +68,9 @@ Voxi focuses on speed, privacy, and simplicity:
 
 This repository is relevant to searches such as:
 
-- Voxi
-- Voxi download
-- Voxi releases
+- voxlilt
+- voxlilt download
+- voxlilt releases
 - local voice input
 - speech to text app
 - voice typing app
@@ -81,9 +81,9 @@ This repository is relevant to searches such as:
 ## Links
 
 - **Website:** https://www.newvoxi.com/
-- **Latest Release:** https://github.com/Raingle01/voxi-releases/releases/latest
+- **Latest Release:** https://github.com/Raingle01/voxlilt-releases/releases/latest
 
 ## License
 
-Release assets are distributed by the Voxi team.  
-For licensing, usage terms, or business inquiries, please contact the official Voxi team through the website.
+Release assets are distributed by the voxlilt team.  
+For licensing, usage terms, or business inquiries, please contact the official voxlilt team through the website.
