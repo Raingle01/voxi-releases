@@ -11,7 +11,7 @@ voxlilt 是一款**本地运行、完全免费、注重隐私**的极速语音�
 获取最新官方安装包：
 
 - **最新发行版：** https://github.com/Raingle01/voxlilt-releases/releases/latest
-- **官网：** https://www.newvoxi.com/
+- **官网：** https://www.voxlilt.com/
 
 ## 什么是 voxlilt？
 
@@ -78,7 +78,7 @@ voxlilt 重点关注速度、隐私和简洁体验：
 
 ## 相关链接
 
-- **官网：** https://www.newvoxi.com/
+- **官网：** https://www.voxlilt.com/
 - **最新发行版：** https://github.com/Raingle01/voxlilt-releases/releases/latest
 
 ## License

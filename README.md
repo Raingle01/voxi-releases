@@ -11,7 +11,7 @@ voxlilt is built for users who want **fast speech to text**, **local speech reco
 Get the latest official desktop builds here:
 
 - **Latest Release:** https://github.com/Raingle01/voxlilt-releases/releases/latest
-- **Official Website:** https://www.newvoxi.com/
+- **Official Website:** https://www.voxlilt.com/
 
 ## What Is voxlilt?
 
@@ -80,7 +80,7 @@ This repository is relevant to searches such as:
 - privacy-first dictation app
 ## Links
 
-- **Website:** https://www.newvoxi.com/
+- **Website:** https://www.voxlilt.com/
 - **Latest Release:** https://github.com/Raingle01/voxlilt-releases/releases/latest
 
 ## License
